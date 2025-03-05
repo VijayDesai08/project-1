@@ -5,3 +5,5 @@ test line 2
 test line 3
 
 feature line 1
+
+test line 4
